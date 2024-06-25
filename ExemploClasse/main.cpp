@@ -10,7 +10,7 @@ using std::endl;
 
 int main()
 {
-    //Cria um objeto do tipo Exemplo e utiliza o construtor
+    //Cria um objeto do tipo Exemplo e utiliza o construtor teste
     Exemplo exemplo("teste");
 
     cout << "Hello world!" << endl;
