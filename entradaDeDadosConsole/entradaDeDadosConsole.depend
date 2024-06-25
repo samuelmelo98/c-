@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1719232936 source:c:\users\user\desktop\curso c++\projetos\entradadedadosconsole\main.cpp
+	<iostream>
+	<string>
+	"MinhaClasse.hpp"
+
+1719234000 c:\users\user\desktop\curso c++\projetos\entradadedadosconsole\minhaclasse.hpp
+	<iostream>
+
+1719233982 source:c:\users\user\desktop\curso c++\projetos\entradadedadosconsole\minhaclasse.cpp
+	"MinhaClasse.hpp"
+
