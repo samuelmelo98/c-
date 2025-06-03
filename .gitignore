@@ -1,0 +1,77 @@
+# Compilados comuns
+*.o
+*.obj
+*.lo
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+*.app
+
+# Arquivos de depuração
+*.gch
+*.pch
+*.sym
+*.d
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+build/
+_build/
+out/
+Debug/
+Release/
+
+# Make
+*.make
+*.mk
+
+# Ninja
+.ninja_deps
+.ninja_log
+build.ninja
+
+# Arquivos de IDEs
+
+# Visual Studio
+.vscode/
+*.vcxproj*
+*.sln
+*.sdf
+*.opensdf
+*.ipch
+*.db
+*.user
+*.log
+
+# CLion / JetBrains
+.idea/
+cmake-build-*/
+
+# Code::Blocks
+*.layout
+*.depend
+*.cbp
+*.workspace
+
+# QtCreator
+*.pro.user*
+*.qmake.stash
+*.autosave
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de backup temporários
+*~
+*.swp
+*.tmp
+*.bak
+*.old
